@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-kabeer-khoso&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-kabeer-khoso" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 **MERN Stack Development**
 
 - 📫 How to reach me **abdulkabeerkhoso082@gmail.com**
 
